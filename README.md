@@ -15,3 +15,6 @@ Junit test has been added and tested create/update/get/delete.
 
 Logger has been added.
 
+Mysql DB contains 2 tables:
+Invoice table stores: name/duedate/email/total amount<br />
+invoice details table stored: invoice description and amount
